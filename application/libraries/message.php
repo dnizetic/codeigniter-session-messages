@@ -39,7 +39,7 @@ if (!defined('BASEPATH'))
  * $additional parameter can be used if more data is needed to be
  * passed to the custom view.
  */
-class My_message {
+class Message {
 
     /**
      * Variable containing a reference to the Codeigniter instance.
