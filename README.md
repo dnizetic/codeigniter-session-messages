@@ -3,7 +3,7 @@ Provides a messaging system based on CI session
 
 Most basic usage:
 
-`$this->message->set("Success message!");`
+``$this->message->set("Success message!");``
 ...redirect...
 `$this->message->show();`
 
